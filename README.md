@@ -27,4 +27,4 @@ Desenvolvedor Backend | Python | FastAPI | Django | PostgreSQL
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Lopes993&show_icons=true&theme=default)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Lopes993&show_icons=true&theme=radical)
